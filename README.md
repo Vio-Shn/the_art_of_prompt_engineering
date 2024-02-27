@@ -16,5 +16,5 @@
 - Python Project: Survival Analysis
 - Prompt Engineering with Langchain
 
-Tech Stack:
+### Tech Stack:
 - Python
